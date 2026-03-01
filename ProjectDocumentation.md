@@ -22,33 +22,41 @@
 ---
 
 ## Team Information
-- **Team Name:** _TBD_
+- **Team Name:** Crypta
 
-| Name               | Roll Number | GitHub ID |
-|--------------------|-------------|-----------|
-| Dillon Allan       | dallan      | dallan    |
-| Anmol Dhaliwal     | asd1        | asd1      |
-| Amir Hansen        | ahansen1    | ahansen1  |
-| Michael Kwok       | mkwok1      | mkwok1    |
-| Jehanzeb Mirza     | jehanzeb    | jehanzeb  |
-| Tharidu Witharana  | tharidu     | tharidu   |
+| Name               | Roll Number |    GitHub ID   |
+|--------------------|-------------|----------------|
+| Fatima Ul Samahat  | 27100064    | FatimaUlSamahat|
+| Dania Usman        | 27100311    | 27100311       |
+| Amir Hansen        | ahansen1    | ahansen1       |
+| Michael Kwok       | mkwok1      | mkwok1         |
+| Jehanzeb Mirza     | jehanzeb    | jehanzeb       |
+| Tharidu Witharana  | tharidu     | tharidu        |
 
 ---
 
 ## Meeting Minutes
 
-### Meeting – Feb 25, 2026
+### Meeting – March 1st, 2026
+
+Discussed user stories , and division of work 
+Github done
+For the next meeting - create mockups, and story board sequence 
+For part 2 there is a object oriented analysis:
+- code structure 
+- what will be the most important class
+- priority of classes
+
+Next meeting will be Next Sunday
 
 #### Date
 Friday, February 25, 2026
 
 #### Attendance
-- Anmol  
-- Amir  
-- Michael  
-- Jehanzeb  
-- Tharidu  
-- Dillon  
+- Fatima Ul Samahat
+- Dania Usman 
+- Muneeb Ur Rehman 
+- Moosa  
 
 ---
 
@@ -167,4 +175,5 @@ _Add screenshots or links to wireframe images._
 _Add screenshots or links to wireframe images._
 
 ### Wireframes – Project Part 3
+
 _Add screenshots or links to wireframe images._
