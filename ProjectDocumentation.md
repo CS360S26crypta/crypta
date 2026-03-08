@@ -50,7 +50,7 @@
 Next meeting will be Next Sunday
 
 #### Date
-Friday, February 25, 2026
+March 1st , 2026
 
 #### Attendance
 - Fatima Ul Samahat
@@ -58,6 +58,24 @@ Friday, February 25, 2026
 - Muneeb Ur Rehman 
 - Moosa  
 
+## Meeting Minutes
+
+### Meeting – March 8th, 2026
+
+- us 1,2,7,8,9,10 - done
+- safa video we didnt follow strictly story level and risk level- add in tags
+- figma mockups userstory vise or together - we will add one with all after all user stories done
+
+Next meeting will be Next Sunday
+
+#### Date
+March 8th, 2026
+
+#### Attendance
+- Fatima Ul Samahat
+- Dania Usman 
+- Muneeb Ur Rehman 
+- Moosa  
 ---
 
 #### Key Takeaways
@@ -177,6 +195,7 @@ _Add screenshots or links to wireframe images._
 ### Wireframes – Project Part 3
 
 _Add screenshots or links to wireframe images._
+
 
 
 
